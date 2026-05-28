@@ -1,0 +1,15 @@
+# QGIS runtime / backup
+*.qgs~
+*.qgz~
+*.bak
+
+# Generated outputs (optional — remove lines to commit outputs)
+output/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc

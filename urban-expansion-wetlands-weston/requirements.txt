@@ -1,0 +1,11 @@
+# Urban Expansion vs Wetlands — Weston, Florida
+# ---------------------------------------------
+# PyQGIS runs inside QGIS's bundled Python. You do NOT install qgis via pip
+# for normal use. Install QGIS Desktop from https://qgis.org/download/
+#
+# Optional (only if extending outside the QGIS app):
+#   - none required for the build script
+#
+# System requirements:
+#   - QGIS >= 3.44 (script tested on 3.44 PyQGIS API)
+#   - Internet connection for ESRI World Imagery XYZ tiles
